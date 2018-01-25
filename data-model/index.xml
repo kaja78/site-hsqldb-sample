@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-models on disl-hsqldb-sample</title>
-    <link>https://github.com/kaja78/site-hsqldb-sample/data-model/</link>
+    <link>https://kaja78.github.com/site-hsqldb-sample/data-model/</link>
     <description>Recent content in Data-models on disl-hsqldb-sample</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/kaja78/site-hsqldb-sample/data-model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaja78.github.com/site-hsqldb-sample/data-model/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DEPARTMENT</title>
-      <link>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/department/</link>
+      <link>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/department/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/department/</guid>
+      <guid>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/department/</guid>
       <description>&lt;p&gt;Department source table.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>EMPLOYEE</title>
-      <link>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/employee/</link>
+      <link>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/employee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/employee/</guid>
+      <guid>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/employee/</guid>
       <description>&lt;p&gt;Employee source table.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>R_EMPLOYEE</title>
-      <link>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/target/r_employee/</link>
+      <link>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/target/r_employee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/target/r_employee/</guid>
+      <guid>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/target/r_employee/</guid>
       <description>&lt;p&gt;Employee target denormalized table.
 &lt;/p&gt;</description>
     </item>

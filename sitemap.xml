@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/department/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/department/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-mapping/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-mapping/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-model/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-model/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/schemas/default/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/schemas/default/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-mapping/org/disl/sample/datamapping/target/departmentsubquery/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-mapping/org/disl/sample/datamapping/target/departmentsubquery/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/employee/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/source/employee/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-mapping/org/disl/sample/datamapping/target/load_r_employee/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-mapping/org/disl/sample/datamapping/target/load_r_employee/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamapping/target/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamapping/target/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamodel/source/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamodel/source/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamodel/target/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamodel/target/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/packages/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/packages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/data-model/org/disl/sample/datamodel/target/r_employee/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/data-model/org/disl/sample/datamodel/target/r_employee/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/schemas/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/schemas/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/kaja78/site-hsqldb-sample/tags/</loc>
+    <loc>https://kaja78.github.com/site-hsqldb-sample/tags/</loc>
     <priority>0</priority>
   </url>
   

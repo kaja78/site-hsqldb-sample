@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on disl-hsqldb-sample</title>
-    <link>https://github.com/kaja78/site-hsqldb-sample/tags/</link>
+    <link>https://kaja78.github.com/site-hsqldb-sample/tags/</link>
     <description>Recent content in Tags on disl-hsqldb-sample</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/kaja78/site-hsqldb-sample/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaja78.github.com/site-hsqldb-sample/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

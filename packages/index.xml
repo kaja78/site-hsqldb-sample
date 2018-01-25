@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Packages on disl-hsqldb-sample</title>
-    <link>https://github.com/kaja78/site-hsqldb-sample/packages/</link>
+    <link>https://kaja78.github.com/site-hsqldb-sample/packages/</link>
     <description>Recent content in Packages on disl-hsqldb-sample</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/kaja78/site-hsqldb-sample/packages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaja78.github.com/site-hsqldb-sample/packages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Org/Disl/Sample/Datamapping/Target</title>
-      <link>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamapping/target/</link>
+      <link>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamapping/target/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamapping/target/</guid>
+      <guid>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamapping/target/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Org/Disl/Sample/Datamodel/Source</title>
-      <link>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamodel/source/</link>
+      <link>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamodel/source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamodel/source/</guid>
+      <guid>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamodel/source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Org/Disl/Sample/Datamodel/Target</title>
-      <link>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamodel/target/</link>
+      <link>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamodel/target/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kaja78/site-hsqldb-sample/packages/org/disl/sample/datamodel/target/</guid>
+      <guid>https://kaja78.github.com/site-hsqldb-sample/packages/org/disl/sample/datamodel/target/</guid>
       <description></description>
     </item>
     
