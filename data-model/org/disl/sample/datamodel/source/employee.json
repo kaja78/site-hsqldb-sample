@@ -1,0 +1,33 @@
+{
+    "edges": [
+        {
+            "dashes": "false",
+            "title": "[DEPARTMENT_ID]=[ID]",
+            "from": "org.disl.sample.dataModel.source.EMPLOYEE",
+            "to": "org.disl.sample.dataModel.source.DEPARTMENT",
+            "color": "blue",
+            "label": "",
+            "arrows": "to"
+        }
+    ],
+    "nodes": [
+        {
+            "title": "Employee source table.",
+            "shape": "box",
+            "id": "org.disl.sample.dataModel.source.EMPLOYEE",
+            "color": "LightGrey",
+            "targetUrl": "/data-model/org/disl/sample/datamodel/source/employee",
+            "label": "EMPLOYEE",
+            "size": 25
+        },
+        {
+            "title": "",
+            "shape": "box",
+            "id": "org.disl.sample.dataModel.source.DEPARTMENT",
+            "color": "LightGrey",
+            "targetUrl": "/data-model/org/disl/sample/datamodel/source/department",
+            "label": "DEPARTMENT",
+            "size": 25
+        }
+    ]
+}

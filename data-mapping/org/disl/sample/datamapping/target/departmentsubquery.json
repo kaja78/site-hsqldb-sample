@@ -1,0 +1,73 @@
+{
+    "edges": [
+        {
+            "arrows": "to",
+            "color": "blue",
+            "dashes": "false",
+            "from": "org.disl.sample.dataModel.source.DEPARTMENT",
+            "label": "dep",
+            "title": null,
+            "to": "org.disl.sample.dataMapping.target.DepartmentSubquery"
+        },
+        {
+            "arrows": "to",
+            "color": "blue",
+            "dashes": "false",
+            "from": "org.disl.sample.dataModel.source.EMPLOYEE",
+            "label": "emp",
+            "title": "dep.ID=emp.DEPARTMENT_ID",
+            "to": "org.disl.sample.dataMapping.target.DepartmentSubquery"
+        },
+        {
+            "dashes": "false",
+            "title": null,
+            "from": "org.disl.sample.dataMapping.target.DepartmentSubquery",
+            "to": "org.disl.sample.dataMapping.target.Load_R_EMPLOYEE",
+            "color": "blue",
+            "label": "",
+            "arrows": "to"
+        }
+    ],
+    "nodes": [
+        {
+            "color": "LightGrey",
+            "id": "org.disl.sample.dataModel.source.EMPLOYEE",
+            "label": "EMPLOYEE",
+            "level": 2,
+            "shape": "box",
+            "size": 25,
+            "targetUrl": "/data-model/org/disl/sample/datamodel/source/employee",
+            "title": "Employee source table."
+        },
+        {
+            "color": "LightGrey",
+            "id": "org.disl.sample.dataModel.source.DEPARTMENT",
+            "label": "DEPARTMENT",
+            "level": 2,
+            "shape": "box",
+            "size": 25,
+            "targetUrl": "/data-model/org/disl/sample/datamodel/source/department",
+            "title": "Department source table."
+        },
+        {
+            "color": "Red",
+            "id": "org.disl.sample.dataMapping.target.DepartmentSubquery",
+            "label": "DepartmentSubquery",
+            "level": 1,
+            "shape": "ellipse",
+            "size": 25,
+            "targetUrl": "/data-mapping/org/disl/sample/datamapping/target/departmentsubquery",
+            "title": "Department measures calculation subquery."
+        },
+        {
+            "level": 0,
+            "title": "Load R_EMPLOYEE denormalized table.",
+            "shape": "ellipse",
+            "id": "org.disl.sample.dataMapping.target.Load_R_EMPLOYEE",
+            "color": "LightGreen",
+            "targetUrl": "/data-mapping/org/disl/sample/datamapping/target/load_r_employee",
+            "label": "Load_R_EMPLOYEE",
+            "size": 25
+        }
+    ]
+}

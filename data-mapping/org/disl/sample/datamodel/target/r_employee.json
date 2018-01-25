@@ -1,0 +1,35 @@
+{
+    "edges": [
+        {
+            "dashes": "false",
+            "title": null,
+            "from": "org.disl.sample.dataMapping.target.Load_R_EMPLOYEE",
+            "to": "org.disl.sample.dataModel.target.R_EMPLOYEE",
+            "color": "blue",
+            "label": "",
+            "arrows": "to"
+        }
+    ],
+    "nodes": [
+        {
+            "color": "LightGrey",
+            "id": "org.disl.sample.dataModel.target.R_EMPLOYEE",
+            "label": "R_EMPLOYEE",
+            "level": 1,
+            "shape": "box",
+            "size": 25,
+            "targetUrl": "/data-model/org/disl/sample/datamodel/target/r_employee",
+            "title": "Employee target denormalized table."
+        },
+        {
+            "level": 2,
+            "title": "Load R_EMPLOYEE denormalized table.",
+            "shape": "ellipse",
+            "id": "org.disl.sample.dataMapping.target.Load_R_EMPLOYEE",
+            "color": "LightGreen",
+            "targetUrl": "/data-mapping/org/disl/sample/datamapping/target/load_r_employee",
+            "label": "Load_R_EMPLOYEE",
+            "size": 25
+        }
+    ]
+}

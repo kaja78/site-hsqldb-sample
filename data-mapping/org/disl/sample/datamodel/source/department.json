@@ -1,0 +1,35 @@
+{
+    "edges": [
+        {
+            "dashes": "false",
+            "title": null,
+            "from": "org.disl.sample.dataModel.source.DEPARTMENT",
+            "to": "org.disl.sample.dataMapping.target.DepartmentSubquery",
+            "color": "blue",
+            "label": "",
+            "arrows": "to"
+        }
+    ],
+    "nodes": [
+        {
+            "color": "LightGrey",
+            "id": "org.disl.sample.dataModel.source.DEPARTMENT",
+            "label": "DEPARTMENT",
+            "level": 1,
+            "shape": "box",
+            "size": 25,
+            "targetUrl": "/data-model/org/disl/sample/datamodel/source/department",
+            "title": "Department source table."
+        },
+        {
+            "level": 0,
+            "title": "Department measures calculation subquery.",
+            "shape": "ellipse",
+            "id": "org.disl.sample.dataMapping.target.DepartmentSubquery",
+            "color": "LightGreen",
+            "targetUrl": "/data-mapping/org/disl/sample/datamapping/target/departmentsubquery",
+            "label": "DepartmentSubquery",
+            "size": 25
+        }
+    ]
+}
