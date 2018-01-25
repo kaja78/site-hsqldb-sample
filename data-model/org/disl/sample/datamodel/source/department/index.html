@@ -110,7 +110,7 @@ var options = {
 
 
 
-  $.get( "/data-mapping/org\/disl\/sample\/datamodel\/source\/department.json", function( data ) {
+  $.get( "https:\/\/kaja78.github.com\/site-hsqldb-sample\/data-mapping/org\/disl\/sample\/datamodel\/source\/department.json", function( data ) {
         var network = new vis.Network(lineageNetwork, data, options);
         network.on('doubleClick',function (event) {
             if (event.nodes[0]) {
