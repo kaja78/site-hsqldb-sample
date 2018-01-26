@@ -66,9 +66,9 @@
 
 <p></table></p>
 
-<script type="text/javascript" src="/js/vis.js"></script>
-<script src="/js/jquery-3.2.0.min.js"></script>
-<link href="/css/vis-network.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../../../../../../../js/vis.js"></script>
+<script src="https://kaja78.github.com/site-hsqldb-sample/js/jquery-3.2.0.min.js"></script>
+<link href="https://kaja78.github.com/site-hsqldb-sample/css/vis-network.min.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
     #lineageNetwork {
       width: 1000px;
@@ -117,7 +117,7 @@ var options = {
 					var id=event.nodes[0]
 					$.each(data.nodes,function(index,node){
 						if (node.id==id) {
-							window.location=node.targetUrl
+							window.location='https:\/\/kaja78.github.com\/site-hsqldb-sample\/'+node.targetUrl
 						}
 					})
                 }
